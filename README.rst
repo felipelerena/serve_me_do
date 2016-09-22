@@ -14,3 +14,8 @@ First we will define the data object
     $ cd /home/my_htmls
     $ serve_me_do
     Serving on 0.0.0.0:8000
+
+How to install
+==============
+.. code-block:: bash
+    pip install serve_me_do
