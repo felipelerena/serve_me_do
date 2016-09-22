@@ -9,12 +9,12 @@ except ImportError:
 
 setup(
     name='serve_me_do',
-    version='0.0.1',
+    version='0.0.2',
     author='Felipe Lerena',
     author_email='felipelerena@gmail.com',
     packages=['serve_me_do'],
     scripts=[],
-    url='http://pypi.python.org/pypi/serve_me_do/',
+    url='http://github.com/felipelerena/serve_me_do/',
     license='WTFPL',
     description='command to serve some directory with multithreaded http server',
     long_description="",
