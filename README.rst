@@ -9,8 +9,8 @@ How does it work?
 
 First we will define the data object
 
-.. code-block:: python
+.. code-block:: bash
 
-    $_ cd /home/my_htmls
-    $_ serve_me_do
+    $ cd /home/my_htmls
+    $ serve_me_do
     Serving on 0.0.0.0:8000
