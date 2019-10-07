@@ -7,7 +7,7 @@ serve_me_do is a command to launch a web server for a directory
 How does it work?
 =================
 
-Got to the folder and run the command
+Go to the folder and run the command
 .. code-block:: bash
 
     $ cd /home/my_htmls
