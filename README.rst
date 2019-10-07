@@ -1,7 +1,7 @@
 Welcome to serve_me_do's documentation!
 =======================================
 
-serve_me_do is a command to launch a web server for a directori
+serve_me_do is a command to launch a web server for a directory
 
 
 How does it work?
